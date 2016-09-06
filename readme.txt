@@ -1,3 +1,3 @@
 Git Basics
 
-Ich lerne die Grundlagen von Git und GitHub, so dieses Repo ist nur zum Test.
+Ich lerne die Grundlagen von Git und GitHub, dieses Repo ist nur ein Test.
